@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paritppst
-- 👀 I’m interested in Programming and Data analysis
+- 👀 I’m interested in Programming and Data related fields
 - 🌱 I’m currently learning Everything
 - 📫 How to reach me parit.ppst@gmail.com
 
